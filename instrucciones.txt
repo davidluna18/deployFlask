@@ -1,0 +1,3 @@
+python app.py
+
+mkvirtualenv flaskenv --python=python3.7
